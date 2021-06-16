@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vergebit
-- 👀 I’m interested in real coding
-- 🌱 I’m currently learning programming and system design
+- 👀 I’m interested in things at its core level
+- 🌱 I’m currently learning and experimenting computer science
 - 📫 Reach me on vergebit@gmail.com
 
 <!---
